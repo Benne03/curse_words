@@ -1,0 +1,4 @@
+swearword list country,total frequency in US tweets,total frequency in GB tweets,total relative frequency in US tweets,total relative frequency in GB tweets
+US,862,89,0.0033385360790404227,0.001109283079070695
+GB,12,40,4.64761403114676e-05,0.0004985541928407618
+total,874,129,0.00338501221935189,0.0016078372719114569
